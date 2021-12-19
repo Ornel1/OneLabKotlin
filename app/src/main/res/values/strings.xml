@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OneLabKotlin</string>
+    <string name="data_now">data now</string>
+    <string name="now_data_is">now data is</string>
+    <string name="text_send">text send</string>
+    <string name="send_message">send message</string>
+</resources>
